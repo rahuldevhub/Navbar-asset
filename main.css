@@ -1,0 +1,8 @@
+.bg{
+    background-image: url(/image/topback.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 1000px;
+    width: 100%;
+    }
